@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.googlecode.dex2jar.ir.test.SSATransformerTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:40:12" hostname="LAPTOP-KUQPBOFG" time="0.06">
+<testsuite name="com.googlecode.dex2jar.ir.test.SSATransformerTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-07-12T11:48:27" hostname="LAPTOP-KUQPBOFG" time="0.06">
   <properties/>
-  <testcase name="test04NotInsertPhiLoop2" classname="com.googlecode.dex2jar.ir.test.SSATransformerTest" time="0.001"/>
-  <testcase name="test06PhiInTrap" classname="com.googlecode.dex2jar.ir.test.SSATransformerTest" time="0.002"/>
+  <testcase name="test04NotInsertPhiLoop2" classname="com.googlecode.dex2jar.ir.test.SSATransformerTest" time="0.0"/>
+  <testcase name="test06PhiInTrap" classname="com.googlecode.dex2jar.ir.test.SSATransformerTest" time="0.003"/>
   <testcase name="test03NotInsertPhiInLoop" classname="com.googlecode.dex2jar.ir.test.SSATransformerTest" time="0.001"/>
   <testcase name="test05PhiInGoto" classname="com.googlecode.dex2jar.ir.test.SSATransformerTest" time="0.0"/>
   <testcase name="test08" classname="com.googlecode.dex2jar.ir.test.SSATransformerTest" time="0.0"/>

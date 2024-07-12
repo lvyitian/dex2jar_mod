@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="a.SmaliTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:40:07" hostname="LAPTOP-KUQPBOFG" time="2.671">
+<testsuite name="a.SmaliTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-07-12T11:48:24" hostname="LAPTOP-KUQPBOFG" time="2.539">
   <properties/>
-  <testcase name="test" classname="a.SmaliTest" time="0.007"/>
-  <testcase name="test2" classname="a.SmaliTest" time="2.664"/>
+  <testcase name="test" classname="a.SmaliTest" time="0.008"/>
+  <testcase name="test2" classname="a.SmaliTest" time="2.531"/>
   <system-out><![CDATA[.class public La;
 .super Ljava/lang/Object;
 .implements Lj;

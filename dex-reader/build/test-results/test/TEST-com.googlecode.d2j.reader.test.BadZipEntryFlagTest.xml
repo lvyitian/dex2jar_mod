@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.googlecode.d2j.reader.test.BadZipEntryFlagTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:40:15" hostname="LAPTOP-KUQPBOFG" time="0.022">
+<testsuite name="com.googlecode.d2j.reader.test.BadZipEntryFlagTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-07-12T11:48:28" hostname="LAPTOP-KUQPBOFG" time="0.023">
   <properties/>
-  <testcase name="test0" classname="com.googlecode.d2j.reader.test.BadZipEntryFlagTest" time="0.006"/>
-  <testcase name="test1" classname="com.googlecode.d2j.reader.test.BadZipEntryFlagTest" time="0.015"/>
+  <testcase name="test0" classname="com.googlecode.d2j.reader.test.BadZipEntryFlagTest" time="0.007"/>
+  <testcase name="test1" classname="com.googlecode.d2j.reader.test.BadZipEntryFlagTest" time="0.016"/>
   <system-out><![CDATA[test.txt
 test.txt
 ]]></system-out>

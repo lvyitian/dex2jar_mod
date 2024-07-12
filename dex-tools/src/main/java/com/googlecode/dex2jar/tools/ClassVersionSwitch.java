@@ -10,6 +10,8 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
 import java.util.Enumeration;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
@@ -50,10 +52,12 @@ public class ClassVersionSwitch {
                 zos.putNextEntry(new ZipEntry(zipEntry.getName()));
                 if (!zipEntry.isDirectory()) {
                     try (InputStream is = zip.getInputStream(zipEntry)) {
+                        byte[] currentFile=toByteArray(is);
                         boolean putOriginal=true;
                         if (zipEntry.getName().endsWith(".class")) {
+                            System.out.println("Transforming: "+zipEntry.getName());
                             try{
-                                ClassReader cr = new ClassReader(is);
+                                ClassReader cr = new ClassReader(new ByteArrayInputStream(currentFile));
                                 ClassWriter cw = new ClassWriter(0);
                                 ClassVisitor cv = new ClassVisitor(Opcodes.ASM9, cw) {
                                     @Override
@@ -67,14 +71,22 @@ public class ClassVersionSwitch {
                             }catch(Throwable t){t.printStackTrace();}
                         }
                         if(putOriginal) {
-                            for (int c = is.read(buff); c > 0; c = is.read(buff)) {
+                            /*for (int c = is.read(buff); c > 0; c = is.read(buff)) {
                                 zos.write(buff, 0, c);
-                            }
+                            }*/
+                            zos.write(currentFile, 0, currentFile.length);
                         }
-                    }
+                    }catch(Throwable t){System.out.println("Exception occurred while processing "+zipEntry.getName()+":");t.printStackTrace();}
                 }
                 zos.closeEntry();
             }
+        }
+    }
+    public static byte[] toByteArray(InputStream is) throws IOException {
+        try(ByteArrayOutputStream baos=new ByteArrayOutputStream()){
+            int read;
+            while((read=is.read())!=-1) baos.write(read);
+            return baos.toByteArray();
         }
     }
 }

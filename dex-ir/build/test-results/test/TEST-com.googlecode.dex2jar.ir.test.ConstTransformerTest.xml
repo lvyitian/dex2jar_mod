@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.googlecode.dex2jar.ir.test.ConstTransformerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:40:12" hostname="LAPTOP-KUQPBOFG" time="0.003">
+<testsuite name="com.googlecode.dex2jar.ir.test.ConstTransformerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-07-12T11:48:27" hostname="LAPTOP-KUQPBOFG" time="0.002">
   <properties/>
-  <testcase name="test00" classname="com.googlecode.dex2jar.ir.test.ConstTransformerTest" time="0.002"/>
+  <testcase name="test00" classname="com.googlecode.dex2jar.ir.test.ConstTransformerTest" time="0.001"/>
   <testcase name="test01" classname="com.googlecode.dex2jar.ir.test.ConstTransformerTest" time="0.0"/>
   <testcase name="test02" classname="com.googlecode.dex2jar.ir.test.ConstTransformerTest" time="0.0"/>
   <testcase name="test03" classname="com.googlecode.dex2jar.ir.test.ConstTransformerTest" time="0.0"/>

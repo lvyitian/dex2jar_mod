@@ -1,150 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.googlecode.dex2jar.test.D2jErrorZipsTest" tests="144" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:40:26" hostname="LAPTOP-KUQPBOFG" time="1.544">
+<testsuite name="com.googlecode.dex2jar.test.D2jErrorZipsTest" tests="144" skipped="0" failures="0" errors="0" timestamp="2024-07-12T11:48:38" hostname="LAPTOP-KUQPBOFG" time="1.543">
   <properties/>
-  <testcase name="[gh477-1.zip:/m-142.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.122"/>
+  <testcase name="[gh477-1.zip:/m-142.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.129"/>
   <testcase name="[gh477-1.zip:/m-141.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
-  <testcase name="[gh477-1.zip:/m-140.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.027"/>
-  <testcase name="[gh477-1.zip:/m-139.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-138.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.015"/>
-  <testcase name="[gh477-1.zip:/m-137.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.013"/>
+  <testcase name="[gh477-1.zip:/m-140.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.028"/>
+  <testcase name="[gh477-1.zip:/m-139.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-138.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.014"/>
+  <testcase name="[gh477-1.zip:/m-137.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.014"/>
   <testcase name="[gh477-1.zip:/m-136.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-135.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.023"/>
-  <testcase name="[gh477-1.zip:/m-134.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.006"/>
-  <testcase name="[gh477-1.zip:/m-133.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.035"/>
-  <testcase name="[gh477-1.zip:/m-132.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.008"/>
+  <testcase name="[gh477-1.zip:/m-134.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.005"/>
+  <testcase name="[gh477-1.zip:/m-133.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.039"/>
+  <testcase name="[gh477-1.zip:/m-132.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.009"/>
   <testcase name="[gh477-1.zip:/m-131.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
-  <testcase name="[gh477-1.zip:/m-130.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.036"/>
-  <testcase name="[gh477-1.zip:/m-129.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-130.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.037"/>
+  <testcase name="[gh477-1.zip:/m-129.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-128.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
   <testcase name="[gh477-1.zip:/m-127.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-126.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-125.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.042"/>
-  <testcase name="[gh477-1.zip:/m-124.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
-  <testcase name="[gh477-1.zip:/m-123.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.041"/>
-  <testcase name="[gh477-1.zip:/m-122.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-125.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.04"/>
+  <testcase name="[gh477-1.zip:/m-124.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
+  <testcase name="[gh477-1.zip:/m-123.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.037"/>
+  <testcase name="[gh477-1.zip:/m-122.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-121.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.01"/>
-  <testcase name="[gh477-1.zip:/m-120.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.008"/>
-  <testcase name="[gh477-1.zip:/m-119.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.01"/>
-  <testcase name="[gh477-1.zip:/m-118.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.019"/>
+  <testcase name="[gh477-1.zip:/m-120.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.009"/>
+  <testcase name="[gh477-1.zip:/m-119.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.012"/>
+  <testcase name="[gh477-1.zip:/m-118.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.02"/>
   <testcase name="[gh477-1.zip:/m-117.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-116.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.007"/>
+  <testcase name="[gh477-1.zip:/m-116.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.006"/>
   <testcase name="[gh477-1.zip:/m-115.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
-  <testcase name="[gh477-1.zip:/m-114.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.006"/>
+  <testcase name="[gh477-1.zip:/m-114.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.005"/>
   <testcase name="[gh477-1.zip:/m-113.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-112.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-111.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-111.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-110.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
-  <testcase name="[gh477-1.zip:/m-109.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.013"/>
-  <testcase name="[gh477-1.zip:/m-108.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.022"/>
-  <testcase name="[gh477-1.zip:/m-107.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
-  <testcase name="[gh477-1.zip:/m-106.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
+  <testcase name="[gh477-1.zip:/m-109.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.012"/>
+  <testcase name="[gh477-1.zip:/m-108.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.02"/>
+  <testcase name="[gh477-1.zip:/m-107.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-106.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-105.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-104.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-103.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-102.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.129"/>
+  <testcase name="[gh477-1.zip:/m-102.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.119"/>
   <testcase name="[gh477-1.zip:/m-101.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
   <testcase name="[gh477-1.zip:/m-100.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-99.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-98.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
-  <testcase name="[gh477-1.zip:/m-97.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-96.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.006"/>
+  <testcase name="[gh477-1.zip:/m-98.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-97.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
+  <testcase name="[gh477-1.zip:/m-96.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.013"/>
   <testcase name="[gh477-1.zip:/m-95.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-94.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-93.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.011"/>
-  <testcase name="[gh477-1.zip:/m-92.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
-  <testcase name="[gh477-1.zip:/m-91.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-90.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-89.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-93.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.012"/>
+  <testcase name="[gh477-1.zip:/m-92.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-91.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
+  <testcase name="[gh477-1.zip:/m-90.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-89.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-88.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
-  <testcase name="[gh477-1.zip:/m-87.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.01"/>
-  <testcase name="[gh477-1.zip:/m-86.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.006"/>
+  <testcase name="[gh477-1.zip:/m-87.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.012"/>
+  <testcase name="[gh477-1.zip:/m-86.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.007"/>
   <testcase name="[gh477-1.zip:/m-85.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-84.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.007"/>
   <testcase name="[gh477-1.zip:/m-83.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-82.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.005"/>
+  <testcase name="[gh477-1.zip:/m-82.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.006"/>
   <testcase name="[gh477-1.zip:/m-81.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.007"/>
   <testcase name="[gh477-1.zip:/m-80.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-79.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-78.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-77.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.049"/>
+  <testcase name="[gh477-1.zip:/m-77.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.038"/>
   <testcase name="[gh477-1.zip:/m-76.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-75.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
+  <testcase name="[gh477-1.zip:/m-75.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-74.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-73.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-72.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-73.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-72.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-71.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
-  <testcase name="[gh477-1.zip:/m-70.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-70.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-69.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.009"/>
   <testcase name="[gh477-1.zip:/m-68.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-67.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
-  <testcase name="[gh477-1.zip:/m-66.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.005"/>
-  <testcase name="[gh477-1.zip:/m-65.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-64.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-63.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-62.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.014"/>
-  <testcase name="[gh477-1.zip:/m-61.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
-  <testcase name="[gh477-1.zip:/m-60.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-59.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
+  <testcase name="[gh477-1.zip:/m-66.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
+  <testcase name="[gh477-1.zip:/m-65.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
+  <testcase name="[gh477-1.zip:/m-64.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-63.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-62.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.02"/>
+  <testcase name="[gh477-1.zip:/m-61.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
+  <testcase name="[gh477-1.zip:/m-60.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-59.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-58.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-57.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.005"/>
+  <testcase name="[gh477-1.zip:/m-57.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
   <testcase name="[gh477-1.zip:/m-56.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-55.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.008"/>
-  <testcase name="[gh477-1.zip:/m-54.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-54.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
   <testcase name="[gh477-1.zip:/m-53.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-52.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
+  <testcase name="[gh477-1.zip:/m-52.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-51.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-50.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-49.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
   <testcase name="[gh477-1.zip:/m-48.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-47.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-47.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-46.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
   <testcase name="[gh477-1.zip:/m-45.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
   <testcase name="[gh477-1.zip:/m-44.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-43.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-43.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-42.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-41.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-40.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-39.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.007"/>
-  <testcase name="[gh477-1.zip:/m-38.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.009"/>
-  <testcase name="[gh477-1.zip:/m-37.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
-  <testcase name="[gh477-1.zip:/m-36.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-35.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-34.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-33.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.007"/>
+  <testcase name="[gh477-1.zip:/m-41.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
+  <testcase name="[gh477-1.zip:/m-40.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-39.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.005"/>
+  <testcase name="[gh477-1.zip:/m-38.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.012"/>
+  <testcase name="[gh477-1.zip:/m-37.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-36.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-35.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
+  <testcase name="[gh477-1.zip:/m-34.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-33.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.008"/>
   <testcase name="[gh477-1.zip:/m-32.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-31.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-30.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.005"/>
+  <testcase name="[gh477-1.zip:/m-30.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
   <testcase name="[gh477-1.zip:/m-29.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-28.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
-  <testcase name="[gh477-1.zip:/m-27.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.013"/>
-  <testcase name="[gh477-1.zip:/m-26.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-25.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
-  <testcase name="[gh477-1.zip:/m-24.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-27.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.012"/>
+  <testcase name="[gh477-1.zip:/m-26.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-25.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.005"/>
+  <testcase name="[gh477-1.zip:/m-24.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
   <testcase name="[gh477-1.zip:/m-23.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-22.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-21.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-21.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
   <testcase name="[gh477-1.zip:/m-20.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-19.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-19.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
   <testcase name="[gh477-1.zip:/m-18.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
   <testcase name="[gh477-1.zip:/m-17.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-16.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh477-1.zip:/m-15.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
+  <testcase name="[gh477-1.zip:/m-15.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-14.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <testcase name="[gh477-1.zip:/m-13.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.007"/>
   <testcase name="[gh477-1.zip:/m-12.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-11.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-11.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
   <testcase name="[gh477-1.zip:/m-10.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
-  <testcase name="[gh477-1.zip:/m-9.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh477-1.zip:/m-9.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
   <testcase name="[gh477-1.zip:/m-8.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-7.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.469"/>
-  <testcase name="[gh477-1.zip:/m-6.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.004"/>
+  <testcase name="[gh477-1.zip:/m-7.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.472"/>
+  <testcase name="[gh477-1.zip:/m-6.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.006"/>
   <testcase name="[gh477-1.zip:/m-5.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
-  <testcase name="[gh477-1.zip:/m-4.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.006"/>
+  <testcase name="[gh477-1.zip:/m-4.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.005"/>
   <testcase name="[gh477-1.zip:/m-3.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.001"/>
-  <testcase name="[gh477-1.zip:/m-2.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.023"/>
+  <testcase name="[gh477-1.zip:/m-2.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.022"/>
   <testcase name="[gh477-1.zip:/m-1.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
   <testcase name="[gh477-1.zip:/m-0.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
-  <testcase name="[gh495.zip:/summary.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.002"/>
+  <testcase name="[gh495.zip:/summary.txt]" classname="com.googlecode.dex2jar.test.D2jErrorZipsTest" time="0.003"/>
   <system-out><![CDATA[url is file:/F:/dex2jar/dex-translator/build/resources/test/smalis/writeString.smali
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>

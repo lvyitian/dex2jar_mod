@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="a.AppWriterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:40:33" hostname="LAPTOP-KUQPBOFG" time="0.361">
+<testsuite name="a.AppWriterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-07-12T11:48:44" hostname="LAPTOP-KUQPBOFG" time="0.351">
   <properties/>
   <testcase name="test3" classname="a.AppWriterTest" time="0.031"/>
-  <testcase name="test4" classname="a.AppWriterTest" time="0.328"/>
+  <testcase name="test4" classname="a.AppWriterTest" time="0.319"/>
   <testcase name="testDupClz" classname="a.AppWriterTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
