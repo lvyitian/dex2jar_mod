@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.googlecode.dex2jar.ir.test.TypeTransformerTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:40:12" hostname="LAPTOP-KUQPBOFG" time="0.009">
+  <properties/>
+  <testcase name="test2arrayF" classname="com.googlecode.dex2jar.ir.test.TypeTransformerTest" time="0.007"/>
+  <testcase name="testGithubIssue28" classname="com.googlecode.dex2jar.ir.test.TypeTransformerTest" time="0.0"/>
+  <testcase name="test2byte" classname="com.googlecode.dex2jar.ir.test.TypeTransformerTest" time="0.001"/>
+  <testcase name="test2char" classname="com.googlecode.dex2jar.ir.test.TypeTransformerTest" time="0.0"/>
+  <testcase name="test3Z" classname="com.googlecode.dex2jar.ir.test.TypeTransformerTest" time="0.0"/>
+  <testcase name="testDefaultZI" classname="com.googlecode.dex2jar.ir.test.TypeTransformerTest" time="0.0"/>
+  <testcase name="testGithubIssue28x" classname="com.googlecode.dex2jar.ir.test.TypeTransformerTest" time="0.0"/>
+  <testcase name="test3" classname="com.googlecode.dex2jar.ir.test.TypeTransformerTest" time="0.0"/>
+  <testcase name="test00Base" classname="com.googlecode.dex2jar.ir.test.TypeTransformerTest" time="0.0"/>
+  <testcase name="test1Const" classname="com.googlecode.dex2jar.ir.test.TypeTransformerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

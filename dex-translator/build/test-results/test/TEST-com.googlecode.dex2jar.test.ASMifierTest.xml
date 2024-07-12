@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.googlecode.dex2jar.test.ASMifierTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:40:25" hostname="LAPTOP-KUQPBOFG" time="1.778">
+  <properties/>
+  <testcase name="test" classname="com.googlecode.dex2jar.test.ASMifierTest" time="1.778"/>
+  <system-out><![CDATA[asmifier file F:\dex2jar\dex-translator\build\resources\test\dexes\dex038.dex
+asmifier file F:\dex2jar\dex-translator\build\resources\test\dexes\dex039.dex
+asmifier file F:\dex2jar\dex-translator\build\resources\test\dexes\dex040.dex
+asmifier file F:\dex2jar\dex-translator\build\resources\test\dexes\i_jetty.dex
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

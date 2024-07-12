@@ -1,0 +1,26 @@
+com/googlecode/dex2jar/ir/test/UnSSATransformerTransformerTest.java
+ com.googlecode.dex2jar.ir.test.UnSSATransformerTransformerTest
+com/googlecode/dex2jar/ir/test/SSATransformerTest.java
+ com.googlecode.dex2jar.ir.test.SSATransformerTest
+com/googlecode/dex2jar/ir/test/RemoveLocalFromSSATest.java
+ com.googlecode.dex2jar.ir.test.RemoveLocalFromSSATest
+com/googlecode/dex2jar/ir/test/DeadCodeTrnasformerTest.java
+ com.googlecode.dex2jar.ir.test.DeadCodeTrnasformerTest
+com/googlecode/dex2jar/ir/test/ZeroTransformerTest.java
+ com.googlecode.dex2jar.ir.test.ZeroTransformerTest
+com/googlecode/dex2jar/ir/test/StmtListTest.java
+ com.googlecode.dex2jar.ir.test.StmtListTest
+com/googlecode/dex2jar/ir/test/ConstTransformerTest.java
+ com.googlecode.dex2jar.ir.test.ConstTransformerTest
+com/googlecode/dex2jar/ir/test/TypeTransformerTest.java
+ com.googlecode.dex2jar.ir.test.TypeTransformerTest
+com/googlecode/dex2jar/ir/test/AggTransformerTest.java
+ com.googlecode.dex2jar.ir.test.AggTransformerTest
+com/googlecode/dex2jar/ir/test/ConstantStringTest.java
+ com.googlecode.dex2jar.ir.test.ConstantStringTest
+com/googlecode/dex2jar/ir/test/RemoveConstantFromSSATest.java
+ com.googlecode.dex2jar.ir.test.RemoveConstantFromSSATest
+com/googlecode/dex2jar/ir/test/JimpleTransformerTest.java
+ com.googlecode.dex2jar.ir.test.JimpleTransformerTest
+com/googlecode/dex2jar/ir/test/BaseTransformerTest.java
+ com.googlecode.dex2jar.ir.test.BaseTransformerTest

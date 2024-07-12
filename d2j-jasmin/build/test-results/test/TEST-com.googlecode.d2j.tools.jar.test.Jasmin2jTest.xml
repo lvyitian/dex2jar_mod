@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.googlecode.d2j.tools.jar.test.Jasmin2jTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:39:50" hostname="LAPTOP-KUQPBOFG" time="0.235">
+  <properties/>
+  <testcase name="type.j" classname="com.googlecode.d2j.tools.jar.test.Jasmin2jTest" time="0.235"/>
+  <system-out><![CDATA[jasmins dir is F:\dex2jar\d2j-jasmin\build\resources\test\jasmins
+.bytecode 0.0
+.class public super "public"
+.implements A
+.implements "interface"
+.implements "public"
+.annotation visible Ljava/lang/A;
+.end annotation
+.annotation visible Ljava/lang/B;
+.end annotation
+.annotation visible Ljava/lang/annotation/Retention;
+value e Ljava/lang/annotation/RetentionPolicy; = CLASS
+value [e LR; = "CLASS" "CLASS2" "CLASS3" 
+.end annotation
+
+.method public ldc()V
+    ldc_w 0
+    ldc2_w 1L
+    ldc "abc"
+    ldc I
+    ldc java/lang/Object
+    ldc [I
+    ldc [[Ljava/lang/Object;
+  .limit locals 0
+  .limit stack 0
+.end method
+
+.method public checkcast()V
+    invokeinterface android/content/DialogInterface/dismiss()V 0
+    checkcast java/lang/Object
+    checkcast [I
+    checkcast [[Ljava/lang/Object;
+    checkcast I
+    invokestatic B/clone()V
+    invokestatic B/clone()V
+    invokestatic [B/clone()V
+    invokestatic [B/clone()V
+    getstatic B/a I
+    getstatic B/a I
+    getstatic [B/a I
+    getstatic [B/a I
+    getstatic B/public I
+  .limit locals 0
+  .limit stack 0
+.end method
+
+.method public "public"()V
+.end method
+
+.method public "static"()V
+.end method
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

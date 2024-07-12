@@ -1,0 +1,6 @@
+com/googlecode/d2j/tools/jar/test/WaveTest.java
+ com.googlecode.d2j.tools.jar.test.WaveTest
+com/googlecode/d2j/tools/jar/MethodInvocation.java
+ com.googlecode.d2j.tools.jar.MethodInvocation
+com/googlecode/d2j/tools/jar/test/DexWaveTest.java
+ com.googlecode.d2j.tools.jar.test.DexWaveTest

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.googlecode.d2j.tools.jar.test.WaveTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:40:22" hostname="LAPTOP-KUQPBOFG" time="0.407">
+  <properties/>
+  <testcase name="testA" classname="com.googlecode.d2j.tools.jar.test.WaveTest" time="0.389"/>
+  <testcase name="testB" classname="com.googlecode.d2j.tools.jar.test.WaveTest" time="0.01"/>
+  <testcase name="testC" classname="com.googlecode.d2j.tools.jar.test.WaveTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: dex-translator
+Implementation-Version: 2.x
+Build-Number: -1
+Build-Time: 2024-07-12T18:39:49+0800
+Revision: b5bda4f
+

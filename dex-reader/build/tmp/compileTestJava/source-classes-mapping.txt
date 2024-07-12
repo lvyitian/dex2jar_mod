@@ -1,0 +1,6 @@
+com/googlecode/d2j/reader/test/BadZipEntryFlagTest.java
+ com.googlecode.d2j.reader.test.BadZipEntryFlagTest
+com/googlecode/d2j/reader/test/SkipDupMethod.java
+ com.googlecode.d2j.reader.test.SkipDupMethod
+com/googlecode/d2j/reader/test/AsmfierTest.java
+ com.googlecode.d2j.reader.test.AsmfierTest

@@ -35,13 +35,14 @@ public class ClassVersionSwitch {
             System.exit(1);
         }
         int version = Integer.parseInt(args[0]);
+        final int jVersion;
         if (version < 1 || version > 9) {
-            throw new RuntimeException("version not support yet!");
-        }
+            System.err.println("Warning: version not support yet!");
+            jVersion=version;
+        }else jVersion = jVersions[version];
         File old = new File(args[1]);
         File n = new File(args[2]);
         byte[] buff = new byte[1024 * 50];
-        final int jVersion = jVersions[version];
         try (ZipFile zip = new ZipFile(old); ZipOutputStream zos = new ZipOutputStream(new FileOutputStream(n));) {
 
             for (Enumeration<? extends ZipEntry> e = zip.entries(); e.hasMoreElements(); ) {
@@ -49,24 +50,28 @@ public class ClassVersionSwitch {
                 zos.putNextEntry(new ZipEntry(zipEntry.getName()));
                 if (!zipEntry.isDirectory()) {
                     try (InputStream is = zip.getInputStream(zipEntry)) {
+                        boolean putOriginal=true;
                         if (zipEntry.getName().endsWith(".class")) {
-                            ClassReader cr = new ClassReader(is);
-                            ClassWriter cw = new ClassWriter(0);
-                            ClassVisitor cv = new ClassVisitor(Opcodes.ASM9, cw) {
-                                @Override
-                                public void visit(int version, int access, String name, String signature, String superName, String[] interfaces) {
-                                    super.visit(jVersion, access, name, signature, superName, interfaces);
-                                }
-                            };
-                            cr.accept(cv, ClassReader.EXPAND_FRAMES|ClassReader.SKIP_FRAMES);
-                            zos.write(cw.toByteArray());
-                        } else {
+                            try{
+                                ClassReader cr = new ClassReader(is);
+                                ClassWriter cw = new ClassWriter(0);
+                                ClassVisitor cv = new ClassVisitor(Opcodes.ASM9, cw) {
+                                    @Override
+                                    public void visit(int version, int access, String name, String signature, String superName, String[] interfaces) {
+                                        super.visit(jVersion, access, name, signature, superName, interfaces);
+                                    }
+                                };
+                                cr.accept(cv, ClassReader.EXPAND_FRAMES|ClassReader.SKIP_FRAMES);
+                                zos.write(cw.toByteArray());
+                                putOriginal=false;
+                            }catch(Throwable t){t.printStackTrace();}
+                        }
+                        if(putOriginal) {
                             for (int c = is.read(buff); c > 0; c = is.read(buff)) {
                                 zos.write(buff, 0, c);
                             }
                         }
                     }
-
                 }
                 zos.closeEntry();
             }

@@ -1,0 +1,5 @@
+com/googlecode/d2j/tools/jar/test/Jasmin2jTest.java
+ com.googlecode.d2j.tools.jar.test.Jasmin2jTest
+ com.googlecode.d2j.tools.jar.test.Jasmin2jTest$S
+ com.googlecode.d2j.tools.jar.test.Jasmin2jTest$S$1
+ com.googlecode.d2j.tools.jar.test.Jasmin2jTest$S$2

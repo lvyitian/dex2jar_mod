@@ -1,0 +1,130 @@
+res/ResChild.java
+ res.ResChild
+com/googlecode/dex2jar/test/ZeroTest.java
+ com.googlecode.dex2jar.test.ZeroTest
+com/googlecode/dex2jar/test/ArrayTypeTest.java
+ com.googlecode.dex2jar.test.ArrayTypeTest
+com/googlecode/dex2jar/test/Smali2jTest.java
+ com.googlecode.dex2jar.test.Smali2jTest
+ com.googlecode.dex2jar.test.Smali2jTest$S
+ com.googlecode.dex2jar.test.Smali2jTest$S$1
+ com.googlecode.dex2jar.test.Smali2jTest$S$2
+ com.googlecode.dex2jar.test.Smali2jTest$S$2$1
+com/googlecode/dex2jar/test/D2jTest.java
+ com.googlecode.dex2jar.test.D2jTest
+ com.googlecode.dex2jar.test.D2jTest$S
+ com.googlecode.dex2jar.test.D2jTest$S$1
+ com.googlecode.dex2jar.test.D2jTest$S$1$1
+res/LongDoubleRes.java
+ res.LongDoubleRes
+res/Gh28Type.java
+ res.Gh28Type
+res/ExceptionRes.java
+ res.ExceptionRes
+com/googlecode/dex2jar/test/TestDexClassV.java
+ com.googlecode.dex2jar.test.TestDexClassV
+ com.googlecode.dex2jar.test.TestDexClassV$1
+res/SwitchRes.java
+ res.SwitchRes
+res/I73.java
+ res.I73
+res/i55/AAbstractClass.java
+ res.i55.AAbstractClass
+com/googlecode/dex2jar/test/EmptyTrapTest.java
+ com.googlecode.dex2jar.test.EmptyTrapTest
+res/i55/AInterface.java
+ res.i55.AInterface
+res/ConstValues.java
+ res.ConstValues
+ res.ConstValues$Abc
+res/i55/AClass.java
+ res.i55.AClass
+res/PopRes.java
+ res.PopRes
+res/NullZero.java
+ res.NullZero
+res/I142_annotation_default.java
+ res.I142_annotation_default
+ res.I142_annotation_default$AA
+res/ArrayRes.java
+ res.ArrayRes
+res/I56_AccessFlag.java
+ res.I56_AccessFlag
+ res.I56_AccessFlag$1
+ res.I56_AccessFlag$1$1
+ res.I56_AccessFlag$1$AX
+ res.I56_AccessFlag$2
+ res.I56_AccessFlag$AInnerClass
+ res.I56_AccessFlag$AInnerClass$AAA
+ res.I56_AccessFlag$AInterface
+ res.I56_AccessFlag$AStaticInnerClass
+ res.I56_AccessFlag$AStaticInterface
+ res.I56_AccessFlag$B0
+ res.I56_AccessFlag$B1
+ res.I56_AccessFlag$B11
+ res.I56_AccessFlag$B11$XXX1
+ res.I56_AccessFlag$B2
+ res.I56_AccessFlag$B3
+ res.I56_AccessFlag$B4
+ res.I56_AccessFlag$C0
+ res.I56_AccessFlag$C1
+ res.I56_AccessFlag$C2
+ res.I56_AccessFlag$C3
+ res.I56_AccessFlag$C4
+ res.I56_AccessFlag$C5
+com/googlecode/dex2jar/test/I168Test.java
+ com.googlecode.dex2jar.test.I168Test
+dex2jar/gen/FTPClient__parsePassiveModeReply.java
+ dex2jar.gen.FTPClient__parsePassiveModeReply
+com/googlecode/dex2jar/test/OptSyncTest.java
+ com.googlecode.dex2jar.test.OptSyncTest
+com/googlecode/dex2jar/test/I101Test.java
+ com.googlecode.dex2jar.test.I101Test
+res/ResParent.java
+ res.ResParent
+res/NoEndRes.java
+ res.NoEndRes
+com/googlecode/dex2jar/test/I63Test.java
+ com.googlecode.dex2jar.test.I63Test
+com/googlecode/dex2jar/test/AutoCastTest.java
+ com.googlecode.dex2jar.test.AutoCastTest
+com/googlecode/dex2jar/test/I121Test.java
+ com.googlecode.dex2jar.test.I121Test
+res/WideRes.java
+ res.WideRes
+res/OptimizeSynchronized.java
+ res.OptimizeSynchronized
+res/ChineseRes.java
+ res.ChineseRes
+res/U0000String.java
+ res.U0000String
+com/googlecode/dex2jar/test/TestUtils.java
+ com.googlecode.dex2jar.test.TestUtils
+ com.googlecode.dex2jar.test.TestUtils$1
+ com.googlecode.dex2jar.test.TestUtils$2
+ com.googlecode.dex2jar.test.TestUtils$3
+ com.googlecode.dex2jar.test.TestUtils$CL
+ com.googlecode.dex2jar.test.TestUtils$StringBuilderTextifier
+com/googlecode/dex2jar/test/Issue71Test.java
+ com.googlecode.dex2jar.test.Issue71Test
+com/googlecode/dex2jar/test/ASMifierTest.java
+ com.googlecode.dex2jar.test.ASMifierTest
+com/googlecode/dex2jar/test/D2jErrorZipsTest.java
+ com.googlecode.dex2jar.test.D2jErrorZipsTest
+ com.googlecode.dex2jar.test.D2jErrorZipsTest$S
+ com.googlecode.dex2jar.test.D2jErrorZipsTest$S$1
+ com.googlecode.dex2jar.test.D2jErrorZipsTest$S$2
+ com.googlecode.dex2jar.test.D2jErrorZipsTest$S$2$1
+com/googlecode/dex2jar/test/DexTranslatorRunner.java
+ com.googlecode.dex2jar.test.DexTranslatorRunner
+ com.googlecode.dex2jar.test.DexTranslatorRunner$1
+res/I71.java
+ res.I71
+res/I88.java
+ res.I88
+ res.I88$A
+com/googlecode/dex2jar/test/ResTest.java
+ com.googlecode.dex2jar.test.ResTest
+ com.googlecode.dex2jar.test.ResTest$FileSet
+ com.googlecode.dex2jar.test.ResTest$R
+ com.googlecode.dex2jar.test.ResTest$R$1

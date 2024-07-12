@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.googlecode.dex2jar.test.ResTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:40:31" hostname="LAPTOP-KUQPBOFG" time="0.382">
+  <properties/>
+  <testcase name="U0000String" classname="com.googlecode.dex2jar.test.ResTest" time="0.069"/>
+  <testcase name="I71" classname="com.googlecode.dex2jar.test.ResTest" time="0.017"/>
+  <testcase name="I142_annotation_default" classname="com.googlecode.dex2jar.test.ResTest" time="0.024"/>
+  <testcase name="I73" classname="com.googlecode.dex2jar.test.ResTest" time="0.016"/>
+  <testcase name="I88" classname="com.googlecode.dex2jar.test.ResTest" time="0.018"/>
+  <testcase name="ResChild" classname="com.googlecode.dex2jar.test.ResTest" time="0.012"/>
+  <testcase name="I56_AccessFlag" classname="com.googlecode.dex2jar.test.ResTest" time="0.041"/>
+  <testcase name="Gh28Type" classname="com.googlecode.dex2jar.test.ResTest" time="0.015"/>
+  <testcase name="NoEndRes" classname="com.googlecode.dex2jar.test.ResTest" time="0.01"/>
+  <testcase name="ArrayRes" classname="com.googlecode.dex2jar.test.ResTest" time="0.022"/>
+  <testcase name="LongDoubleRes" classname="com.googlecode.dex2jar.test.ResTest" time="0.011"/>
+  <testcase name="OptimizeSynchronized" classname="com.googlecode.dex2jar.test.ResTest" time="0.013"/>
+  <testcase name="NullZero" classname="com.googlecode.dex2jar.test.ResTest" time="0.013"/>
+  <testcase name="SwitchRes" classname="com.googlecode.dex2jar.test.ResTest" time="0.013"/>
+  <testcase name="ResParent" classname="com.googlecode.dex2jar.test.ResTest" time="0.01"/>
+  <testcase name="AInterface" classname="com.googlecode.dex2jar.test.ResTest" time="0.008"/>
+  <testcase name="WideRes" classname="com.googlecode.dex2jar.test.ResTest" time="0.012"/>
+  <testcase name="AAbstractClass" classname="com.googlecode.dex2jar.test.ResTest" time="0.009"/>
+  <testcase name="ChineseRes" classname="com.googlecode.dex2jar.test.ResTest" time="0.009"/>
+  <testcase name="ConstValues" classname="com.googlecode.dex2jar.test.ResTest" time="0.014"/>
+  <testcase name="AClass" classname="com.googlecode.dex2jar.test.ResTest" time="0.008"/>
+  <testcase name="PopRes" classname="com.googlecode.dex2jar.test.ResTest" time="0.008"/>
+  <testcase name="ExceptionRes" classname="com.googlecode.dex2jar.test.ResTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

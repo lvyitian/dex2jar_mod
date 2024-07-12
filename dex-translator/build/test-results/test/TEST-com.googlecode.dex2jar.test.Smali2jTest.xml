@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.googlecode.dex2jar.test.Smali2jTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2024-07-12T10:40:31" hostname="LAPTOP-KUQPBOFG" time="0.169">
+  <properties/>
+  <testcase name="[Li;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.001"/>
+  <testcase name="[Landroid/preference/MultiSelectListPreference;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.001"/>
+  <testcase name="[Li;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.004"/>
+  <testcase name="[Letcwgh;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.002"/>
+  <testcase name="[Lgh/i186;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.004"/>
+  <testcase name="[Lgh/i4;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.001"/>
+  <testcase name="[Lr4k;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.019"/>
+  <testcase name="[Lxgoto/first/label;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.001"/>
+  <testcase name="[Li230;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.001"/>
+  <testcase name="[Li/or/Z;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.0"/>
+  <testcase name="[Li220/i219;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.001"/>
+  <testcase name="[La;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.0"/>
+  <testcase name="[Lb;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.001"/>
+  <testcase name="[Lc;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.0"/>
+  <testcase name="[Lcode/Large;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.126"/>
+  <testcase name="[LML;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.001"/>
+  <testcase name="[Li;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.0"/>
+  <testcase name="[Lnpe/cause/trap/fail;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.001"/>
+  <testcase name="[Lopt/lock;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.001"/>
+  <testcase name="[Luseless/new;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.001"/>
+  <testcase name="[LDD;]" classname="com.googlecode.dex2jar.test.Smali2jTest" time="0.002"/>
+  <system-out><![CDATA[url is file:/F:/dex2jar/dex-translator/build/resources/test/smalis/writeString.smali
+]]></system-out>
+  <system-err><![CDATA[WARN: can't get operand(s) for move-result-object, wrong position ?
+WARN: can't get operand(s) for move-result-object, wrong position ?
+WARN: can't get operand(s) for move-result-object, wrong position ?
+]]></system-err>
+</testsuite>
